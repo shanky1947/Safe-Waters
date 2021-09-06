@@ -24,3 +24,6 @@
          alt="Javascript">
   </a>
 </p>
+
+* Hyperparameters of basic convolutional neural networks are tweaked to make a model for detecting water depth
+* Datasets are images of floods with depth as labels developed from artificial simulation which is open source
